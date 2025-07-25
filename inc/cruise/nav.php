@@ -79,6 +79,17 @@
         float: right;
         margin-right: 10px;
     }
+
+
+         @media (max-width: 480px) {
+   #nav .logo {
+    
+        width: 160px;
+        height: 55px;
+      
+    }
+
+      }
 </style>
 
 
